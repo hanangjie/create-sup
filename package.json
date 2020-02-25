@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hanangjie/create-sup.git"
+    "url": "https://github.com/hanangjie/create-sup.git"
   },
   "keywords": [
     "create",
