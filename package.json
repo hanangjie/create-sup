@@ -1,0 +1,23 @@
+{
+  "name": "create-sup",
+  "version": "1.0.0",
+  "description": "a create cli for sup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hanangjie/create-sup.git"
+  },
+  "keywords": [
+    "create",
+    "sup"
+  ],
+  "author": "hanangjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hanangjie/create-sup/issues"
+  },
+  "homepage": "https://github.com/hanangjie/create-sup#readme"
+}
